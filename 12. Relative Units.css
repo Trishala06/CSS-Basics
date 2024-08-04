@@ -1,0 +1,19 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: lightseagreen;
+    font-size: 15px;
+}
+
+#box2{
+    height: 50px;
+    /* %: defines the size relative to parent box */
+    width: 70%;
+    background-color: lightcoral;
+    margin: 10%;
+    /* em: font size is relative to parent box but for width its relative to element itself*/
+    font-size: 2em;
+    width: 3em;
+    /* rem: its relative to root element[16px] */
+    width: 5rem;
+}

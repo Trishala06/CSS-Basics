@@ -1,0 +1,24 @@
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(228, 94, 199);
+}
+
+/* at correct 600px width the bg color changes to  blue */
+@media(width:600px){
+    #box1{
+        background-color: lightblue;
+    }
+}
+
+@media(max-width:700px){
+    #box2{
+        background-color:blue
+    }
+}

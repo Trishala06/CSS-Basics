@@ -1,0 +1,35 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+
+#box1{
+    position: static;
+}
+
+#box3{
+    position: absolute;
+    bottom: 11px;
+}
+
+#box4{
+    position: fixed;
+    top: 10px;
+    right: 50px;
+}
+
+#box2{
+    position: relative;
+    top: 20px;
+    left: -10px;
+}
+
+
+#box5{
+    position: sticky;
+    bottom: 0px;
+}

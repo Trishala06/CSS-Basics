@@ -1,0 +1,20 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-image: url("Nature.jpg");
+    background-size: cover;
+    position: relative;
+    left: 1260px;
+    font-size: 20px;
+}
+
+body{
+    background-image: url("nature1.jpg");
+    background-size: cover;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    text-align:left;
+}

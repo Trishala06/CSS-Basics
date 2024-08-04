@@ -1,0 +1,45 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: hotpink;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: blue;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin:50px;
+}
+
+h1{
+    height: 200px;
+    width: 250px;
+    background-color: aquamarine;
+    border-width: 4px;
+    border-style: dotted;
+    border-color: red;
+    border-radius: 15px;
+    padding: 20px;
+    margin:50px;
+}
+
+
+p{
+    height:fit-content;
+    width:fit-content;
+    background-color: lightblue;
+    border: 2px solid yellow;
+    margin:50px;
+}
+
+button{
+    height:fit-content;
+    width: 100px;
+    background-color:rgb(95, 192, 224);
+    border: 5px solid blue;
+    border-radius: 15px;
+    padding: 20px;
+    margin:50px;
+}

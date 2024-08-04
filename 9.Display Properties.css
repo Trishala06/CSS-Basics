@@ -1,0 +1,40 @@
+#div1{
+    background-color: pink;
+    display: inline;
+}
+
+button{
+    background-color: aquamarine;
+    display: block;
+}
+
+#div2{
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    /* it hides the box but leaves it space */
+    visibility: hidden;
+}
+
+#div3{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    /* it hides the box nd its space */
+    display: none;
+}
+
+#div4{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}

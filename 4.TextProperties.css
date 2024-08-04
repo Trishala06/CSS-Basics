@@ -1,0 +1,34 @@
+h3{
+    text-align: center;
+    text-decoration: red wavy underline;
+    font-weight: bolder;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+h4{
+    text-align: left;
+    text-decoration: blue overline;
+    font-weight:normal;
+    font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue';
+    text-transform: lowercase;
+}
+
+h5{
+    text-align: right;
+    text-decoration: yellow line-through;
+    font-weight:900;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 700;
+    font-family:'Times New Roman';
+}
+
+p{
+    line-height: 2px;
+}

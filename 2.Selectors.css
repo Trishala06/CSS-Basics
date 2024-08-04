@@ -1,0 +1,27 @@
+/* universal selector: used for selecting all the elements given in the html */
+*{
+    color: gold;
+    background-color: black;
+}
+
+/* priorty will be given which is at the last(first to last) */
+
+
+/* element selector: changes the property of particular element which is selected */
+h1{
+    color: blue;
+}
+
+/* ID selector: particular name for that element property will be changed 
+(only numbers not allowed) */
+#h101{
+    color: aqua;
+}
+#h103{
+    color: lavender;
+}
+
+/* class selector: used to change the properties of a group of elements */
+.life{
+    color: hotpink;
+}

@@ -1,0 +1,37 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#box1{
+    background-image: url("pizza.jpg");
+    background-size: cover;
+}
+
+#box2{
+    background-image: url("burger.jpg");
+    background-size:contain;
+}
+
+#box3{
+    background-image: url("pasta.jpg");
+    background-size: cover;
+}
+
+#box4{
+    background-image: url("cake.jpg");
+    background-size: cover;
+}
+
+#box5{
+    background-image: url("fries.jpg");
+    background-size: cover;
+}
+
+body{
+    background-image: url("cooking.jpg");
+    background-size: cover;
+}
